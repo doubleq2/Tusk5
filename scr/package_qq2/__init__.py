@@ -1,0 +1,1 @@
+from .ts3 import starter, clearword
